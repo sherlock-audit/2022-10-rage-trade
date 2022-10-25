@@ -1,17 +1,23 @@
-# {project} contest details
+# Rage Trade contest details
 
-- 50,000 USDC main award pot
+- 38,000 USDC main award pot
 - Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
 - [Read for more details](https://docs.sherlock.xyz/audits/watsons)
-- Starts September 12, 2022 15:00 UTC
-- Ends October 10, 2022 15:00 UTC
+- Starts October 28, 2022 15:00 UTC
+- Ends November 7, 2022 15:00 UTC
 
 # Resources
 
-- [resource1](url)
-- [resource2](url)
+- [Website](https://www.rage.trade/)
+- [Twitter](https://twitter.com/rage_trade)
+- [GitHub](https://github.com/RageTrade)
+- [Medium](https://medium.com/@ragetrade)
 
 # Audit scope
 
-# About {project}
+TBD
+
+# About Rage Trade
+
+TBD
