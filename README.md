@@ -16,7 +16,7 @@
 
 # Audit scope
 
-The following contracts in the [RageTrade/delta-neutral-gmx-vaults @ f7080c9e4387623836664cbde158f07359592c41](https://github.com/RageTrade/delta-neutral-gmx-vaults/tree/f7080c9e4387623836664cbde158f07359592c41) repo are in scope.
+The following contracts in the [RageTrade/delta-neutral-gmx-vaults @ 8bea1afbe746387b1a66ea9357bd41fb1c74830b](https://github.com/RageTrade/delta-neutral-gmx-vaults/tree/8bea1afbe746387b1a66ea9357bd41fb1c74830b) repo are in scope.
 
 - `ERC4626/ERC4626Upgradeable.sol`
 - `libraries/DnGmxJuniorVaultManager.sol`
