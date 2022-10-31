@@ -14,6 +14,13 @@
 - [GitHub](https://github.com/RageTrade)
 - [Medium](https://medium.com/@ragetrade)
 
+# On-chain context
+
+```
+ERC20: WBTC, WETH, USDC, aUSDC (Aave USDC supply token) and sGLP (GMX staked GLP token)
+ERC721: None
+```
+
 # Audit scope
 
 The following contracts in the [RageTrade/delta-neutral-gmx-vaults @ 8bea1afbe746387b1a66ea9357bd41fb1c74830b](https://github.com/RageTrade/delta-neutral-gmx-vaults/tree/8bea1afbe746387b1a66ea9357bd41fb1c74830b) repo are in scope.
